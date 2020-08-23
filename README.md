@@ -27,6 +27,12 @@ WIP
   - Main Data: [MongoDB](https://www.mongodb.com)
   - Cache: [Redis](https://redis.io)
 
+Other tools using for local development:
+- [TypeScript](https://www.typescriptlang.org)
+- [ESLint](https://eslint.org)
+- [Prettier](https://prettier.io)
+- [Webpack](https://webpack.js.org)
+
 ## Repositories Organization
 WIP
 

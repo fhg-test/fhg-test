@@ -11,7 +11,7 @@ View details at [Developers Technical Test.pdf](/docs/developers-technical-test.
 ![Architectural Design](docs/architectural-design.png)
 
 ## Database Design
-WIP
+![Database Design](docs/database-design.png)
 
 ## UI/UX Design
 WIP

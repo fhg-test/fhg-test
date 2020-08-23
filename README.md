@@ -5,7 +5,7 @@ Fullerton Healthcare Group Developers Technical Test
 Fullerton Healthcare Group is looking to build a wellness booking portal to facilitate information
 transfer and booking of all activities and approval/rejection workflows.
 
-View details at [Developers Technical Test.pdf](/docs/developers-technical-test.pdf).
+More detailed information at [Developers Technical Test.pdf](/docs/developers-technical-test.pdf).
 
 ## Architectural Design
 ![Architectural Design](docs/architectural-design.png)
@@ -13,7 +13,7 @@ View details at [Developers Technical Test.pdf](/docs/developers-technical-test.
 ## Database Design
 ![Database Design](docs/database-design.png)
 
-## UI/UX Design
+## UI Design
 WIP
 
 ## Technologies
@@ -34,7 +34,14 @@ Other tools using for local development:
 - [Webpack](https://webpack.js.org)
 
 ## Repositories Organization
-WIP
+- [fhg-test](https://github.com/fhg-test/fhg-test) (this repo): main repo of the project that contains documentations & deployment scripts
+- Frontend
+  - [www](https://github.com/fhg-test/www): Web-based Application
+- Backend
+  - [api](https://github.com/fhg-test/api): API Service
+- Shared Libraries
+  - [core](https://github.com/fhg-test/core): Domain Entity type definitions, used in Web-based Application & API Service
+  - [rest](https://github.com/fhg-test/rest): API Client, used in Web-based Application to communicate with API Service
 
 ## Development & Deployment Guides
 WIP

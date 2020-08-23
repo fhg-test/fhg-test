@@ -1,5 +1,5 @@
 # fhg-test
-Fullerton Healthcare Group Developers Technical Test
+Project Documentations & Deployment Scripts
 
 ## Project Overview
 Fullerton Healthcare Group is looking to build a wellness booking portal to facilitate information

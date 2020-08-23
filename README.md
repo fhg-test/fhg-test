@@ -60,7 +60,7 @@ Other tools using for local development:
 - Backend
   - [api](https://github.com/fhg-test/api): API Service
 - Shared Libraries
-  - [core](https://github.com/fhg-test/fhg-test): Domain Entity type definitions, used in Web-based Application & API Service
+  - [core](https://github.com/fhg-test/core): Domain Entity type definitions, used in Web-based Application & API Service
   - [rest](https://github.com/fhg-test/rest): API Client, used in Web-based Application to communicate with API Service
 
 ## Development & Deployment Guides

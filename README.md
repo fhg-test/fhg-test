@@ -8,7 +8,7 @@ transfer and booking of all activities and approval/rejection workflows.
 View details at [Developers Technical Test.pdf](/docs/developers-technical-test.pdf).
 
 ## Architectural Design
-WIP
+![Architectural Design](docs/architectural-design.png)
 
 ## Database Design
 WIP
@@ -16,10 +16,13 @@ WIP
 ## UI/UX Design
 WIP
 
-## Repositories
+## Technologies
 WIP
 
-## Development & Deployment Guide
+## Repositories Organization
+WIP
+
+## Development & Deployment Guides
 WIP
 
 ## Author

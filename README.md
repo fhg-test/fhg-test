@@ -36,7 +36,7 @@ Other tools using for local development:
 ## Repositories Organization
 - [fhg-test](https://github.com/fhg-test/fhg-test) (this repo): main repo of the project that contains documentations & deployment scripts
 - Frontend
-  - [www](https://github.com/fhg-test/www): Web-based Application
+  - [web](https://github.com/fhg-test/web): Web-based Application
 - Backend
   - [api](https://github.com/fhg-test/api): API Service
 - Shared Libraries

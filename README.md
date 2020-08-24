@@ -41,10 +41,9 @@ WIP
   - API Client: [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - Backend
   - API Service: Node.js framework [Express.js](https://expressjs.com), object schema validation [Yup](https://github.com/jquense/yup), session-based authentication [Passport.js](http://www.passportjs.org)
-  - Database Access: [Mongoose ODM](https://mongoosejs.com), [IORedis](https://github.com/luin/ioredis)
+  - Database Access: [Mongoose ODM](https://mongoosejs.com)
 - Database
   - Main Data: [MongoDB](https://www.mongodb.com)
-  - Cache: [Redis](https://redis.io)
 
 Other tools using for local development:
 - [TypeScript](https://www.typescriptlang.org)

@@ -32,11 +32,13 @@ More detailed information at [Developers Technical Test.pdf](/docs/developers-te
 
 ## UI Design
 
-WIP
+### Sign In Screen
 
-## API Design
+![Sign In Screen](docs/auth-sign-in.png)
 
-WIP
+### Bookings Dashboard
+
+![Bookings Dashboard](docs/bookings-list.png)
 
 ## Technologies
 
@@ -57,7 +59,7 @@ Other tools using for local development:
 
 ## Repositories Organization
 
-- [fhg-test](https://github.com/fhg-test/fhg-test) (this repo): main repo of the project that contains documentations & deployment scripts
+- [fhg-test](https://github.com/fhg-test/fhg-test) (this repo): main repo of the project that contains documentations & development guide
 - Frontend
   - [web](https://github.com/fhg-test/web): Web-based Application
 - Backend
@@ -66,9 +68,46 @@ Other tools using for local development:
   - [core](https://github.com/fhg-test/core): Domain Entity type definitions, used in Web-based Application & API Service
   - [rest](https://github.com/fhg-test/rest): API Client, used in Web-based Application to communicate with API Service
 
-## Development & Deployment Guides
+## Development Guide
 
-WIP
+### Clone Source
+
+Create root dir
+
+```bash
+mkdir fhg-test
+```
+
+Go to root dir and start cloning source
+
+```bash
+cd fhg-test
+git clone git@github.com:fhg-test/web.git
+git clone git@github.com:fhg-test/api.git
+```
+
+### Install Dependencies
+
+```bash
+cd fhg-test/web && yarn
+cd fhg-test/api && yarn
+```
+
+### Start Development
+
+Create `.env` file from `.env.example`
+
+```bash
+cp .env.example .env
+```
+
+Update environment variables in `.env` file then start the app by the following command
+
+```bash
+yarn dev
+```
+
+By default, the Web-based Application will be live at `http://localhost:3000` and API Service at `http://localhost:5000`
 
 ## Authors
 

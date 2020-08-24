@@ -34,6 +34,10 @@ More detailed information at [Developers Technical Test.pdf](/docs/developers-te
 
 WIP
 
+## API Design
+
+WIP
+
 ## Technologies
 
 - Frontend

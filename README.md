@@ -1,6 +1,6 @@
 <div align="center">
   <h1>fhg-test</h1>
-  <p>Project Documentations & Deployment Scripts</p>
+  <p>Project Documentations & Development Guide</p>
 
   <div>
     <a href="https://github.com/fhg-test/fhg-test/commits" aria-label="Commitizen Friendly">
